@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C857C0A01EAA123E00334152 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = LBS8CGX65G;
 						ProvisioningStyle = Automatic;
 					};
 					C857C0B41EAA123E00334152 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LBS8CGX65G;
 				INFOPLIST_FILE = SpeakToMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shuvo.SpeakToMe;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LBS8CGX65G;
 				INFOPLIST_FILE = SpeakToMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shuvo.SpeakToMe;
